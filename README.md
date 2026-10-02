@@ -1,13 +1,11 @@
-## hello there!
+## 👋 hello there!
 
-i'm schlero, formerly known as gamesage. i am a vibecoder who loves minecraft.
+i'm schlero, formerly known as gamesage. i am a vibecoder who loves minecraft. i currently own [Netherrack](https://github.com/NetherrackOSS/Netherrack) and [PocketMineX-MP](https://github.com/pmxmp/PocketMineX-MP)
 
-## future projects
+## 📜 current projects
 
-- reactium (a powernukkitx fork)
-- gmsessentials (an essentialsx alternative for papermc servers)
+- Netherrack (open source minecraft bedrock edition server software written in java)
+- PocketMineX-MP (an axolotl-pm fork that relies on maintenance, and possibly improvements)
 
-and that's it, for now.
-
-## about my server (not really a necessary section)
-i currently own a minecraft bedrock server called schlerogen which is hosted on my arch linux laptop. however, i do plan on installing ubuntu server on that laptop. since my internet connection has cgnat on it, i do plan on asking my isp to disable it, and if they do disable it or charge me a few bucks for it, i will save money for a custom domain for my server.
+## 🖥️ main programming languages:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
