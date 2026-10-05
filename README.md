@@ -1,12 +1,12 @@
 ## 👋 hello there!
 
 i'm schlero, formerly known as gamesage.
-i build minecraft server software and spend an unreasonable amount of time digging through bedrock internals. i currently maintain [Netherrack](https://github.com/NetherrackOSS/Netherrack) and [PocketMineX-MP](https://github.com/pmxmp/PocketMineX-MP)
+i build minecraft server software and spend an unreasonable amount of time digging through bedrock internals. i currently maintain [Netherrack](https://github.com/NetherrackOSS/Netherrack) and [PocketMineX-MP](https://github.com/pmxmp/PocketMineX-MP).
 
 ## 📜 featured projects
 
-- Netherrack (open source minecraft bedrock edition server software written from scratch in java)
-- PocketMineX-MP (a fork of axolotl-pm that focuses on maintenance, and potential improvements)
+- [Netherrack](https://github.com/NetherrackOSS/Netherrack) (open source minecraft bedrock edition server software written from scratch in java)
+- [PocketMineX-MP](https://github.com/pmxmp/PocketMineX-MP) (a fork of axolotl-pm that focuses on maintenance, and potential improvements)
 
 ## 🖥️ main programming languages
 - ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) bedrock, papermc plugins, server software and networking internals
