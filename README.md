@@ -1,6 +1,6 @@
 ## 👋 hello there!
 
-i'm schlero, formerly known as gamesage. i am a vibe-coder who loves minecraft. i currently maintain [Netherrack](https://github.com/NetherrackOSS/Netherrack) and [PocketMineX-MP](https://github.com/pmxmp/PocketMineX-MP)
+i'm schlero, formerly known as gamesage. i am a vibe coder who loves minecraft. i currently maintain [Netherrack](https://github.com/NetherrackOSS/Netherrack) and [PocketMineX-MP](https://github.com/pmxmp/PocketMineX-MP)
 
 ## 📜 current projects
 
