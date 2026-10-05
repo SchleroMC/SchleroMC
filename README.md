@@ -1,10 +1,10 @@
 ## 👋 hello there!
 
-i'm schlero, formerly known as gamesage. i am a vibe-coder who loves minecraft. i currently own [Netherrack](https://github.com/NetherrackOSS/Netherrack) and [PocketMineX-MP](https://github.com/pmxmp/PocketMineX-MP)
+i'm schlero, formerly known as gamesage. i am a vibe-coder who loves minecraft. i currently maintain [Netherrack](https://github.com/NetherrackOSS/Netherrack) and [PocketMineX-MP](https://github.com/pmxmp/PocketMineX-MP)
 
 ## 📜 current projects
 
-- Netherrack (open source minecraft bedrock edition server software written in java)
+- Netherrack (open source minecraft bedrock edition server software written from scratch in java)
 - PocketMineX-MP (an axolotl-pm fork that relies on maintenance, and possibly improvements)
 
 ## 🖥️ main programming languages
