@@ -11,4 +11,4 @@ i'm schlero, formerly known as gamesage. i am a vibe-coder who loves minecraft. 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ## 🛠️ what i use
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=claude&logoColor=white)
+![Arch Btw :3](https://img.shields.io/badge/Arch%20Btw%20:3-1793D1?style=for-the-badge&logo=archlinux&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=claude&logoColor=white)
